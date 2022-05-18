@@ -17,10 +17,13 @@ For xfwm4 theme I modified Mowi-24 xfwm4 theme and enlarged window title bars to
 - Settings manager > Appearance > Style > Pix or PiXflat
 - Settings manager > Appearance > Icons > PiXflat icons
 - Settings manager > Appearance > Font > Default font > PibotoLt Regular 10
-- Settings manager > Window Manager > choose Pix or PiXflat for xfwm4 window theme
-- Settings manager > Window Manager Tweaks > Compositor > disable "Show shadows under dock windows/regualar windows/popup windows/
+- Settings manager > Window Manager > choose Pix or PiXflat for xfwm4 window theme and change Font to PibotoLT Regular
+- Settings manager > Window Manager Tweaks > Compositor > disable "Show shadows under dock windows/regular windows/popup windows/
 - edit or create "gtk.css" in your /home/user/.config/gtk3/gtk.css and add this line ".xfce4-panel image { -gtk-icon-style: regular; }" or copy .css file from /icons/gtk3 to /home/user/.config/gtk3/ folder
 
+you may want to run "sudo gtk-update-icon-cache /usr/share/icons/PiXflat" after selecting icon theme. if you make any change on icon theme run the same code to refresh system.
+
+you may need this also  "sudo apt install gtk2-engines"
 
 #LightDM user image on logon window:
 - uncomment "Hide user greeter image = false" in /etc/lightdm/lightdm.conf
