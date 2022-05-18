@@ -13,7 +13,7 @@ RaspberryPiOS PiX & PiXflat modified icons and theme for XFCE
 - Settings manager > Appearance > Font > Default font > PibotoLt Regular 10
 - Settings manager > Window Manager > choose Pix or PiXflat for xfwm4 window theme
 - Settings manager > Window Manager Tweaks > Compositor > disable "Show shadows under dock windows/regualar windows/popup windows/
-- edit or create "gtk.css" in your /home/user/.config/gtk3/gtk.css and add this line: .xfce4-panel image { -gtk-icon-style: regular; }
+- edit or create "gtk.css" in your /home/user/.config/gtk3/gtk.css and add this line ".xfce4-panel image { -gtk-icon-style: regular; }"
 - or copy css file from /icons/gtk3 folder here.
 
 
