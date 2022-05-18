@@ -1,0 +1,8 @@
+- add and edit gtk.css in "/home/user/.config/gtk3.0 folder"
+
+- install "sudo apt install gtk2-engines"
+
+- install "sudo apt install dbus-x11"
+
+
+*don't forget to run " sudo gtk-update-icon-cache /usr/share/icons/PiXflat/ " after every change.
