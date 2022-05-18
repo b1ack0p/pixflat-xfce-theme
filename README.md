@@ -6,6 +6,8 @@ I used RaspiOS' PiXflat theme / XFCE's default Adwaita theme and Gnome icon them
 
 For xfwm4 theme I modified Mowi-24 xfwm4 theme and enlarged window title bars to 32px from 24px and made window close/minimize/maximize buttons same with original PiXflat theme. unfortunately after I changed title bar size Mowi xfwm4 theme no longer brought the main PiX/PiXflat theme colors so I had to color bars myself. so this also needs fixing. originally Mowi-24 theme takes the colors from main theme. Mowi-24 xfwm4 theme can be downloaded here: https://www.xfce-look.org/p/1700122/
 
+
+#Getting ready:
 - Copy "icons/PiXflat" to /usr/share/icons
 - Copy "theme/Pix" and "theme/PiXflat" to /usr/share/themes
 - install "fonts-piboto_1.2_all.deb" file in "font" folder
