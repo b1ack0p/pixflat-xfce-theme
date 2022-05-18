@@ -35,3 +35,9 @@ you may need this also  "sudo apt install gtk2-engines"
 - install "sudo apt install accountsservice"
 - copy wallpapers you wish to use to /usr/share/backgrounds/anyfolder
 - select "Use user wallpaper if available" in LightDM GTK Greeter Settings app
+
+#Screenshots:
+![Screenshot_2022-05-18_00-22-49](https://user-images.githubusercontent.com/72235930/169033279-ae21e79e-945f-4d19-abe5-b8d9d3ff35a7.png)
+
+![Screenshot_2022-05-18_14-53-34](https://user-images.githubusercontent.com/72235930/169033557-54bbcb68-b254-402d-b5fd-f4038fc3a121.png)
+
