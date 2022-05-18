@@ -37,6 +37,7 @@ you may need this also  "sudo apt install gtk2-engines"
 - select "Use user wallpaper if available" in LightDM GTK Greeter Settings app
 
 #Screenshots:
+
 ![Screenshot_2022-05-18_18-14-22](https://user-images.githubusercontent.com/72235930/169077238-0604d2fe-3097-4fbd-ac01-e3fc0fd92570.png)
 
 ![Screenshot_2022-05-18_00-22-49](https://user-images.githubusercontent.com/72235930/169033279-ae21e79e-945f-4d19-abe5-b8d9d3ff35a7.png)
