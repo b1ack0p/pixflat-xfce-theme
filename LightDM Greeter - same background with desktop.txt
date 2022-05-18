@@ -1,6 +1,0 @@
-
-- uncomment "Hide user greeter image = false" in /etc/lightdm/lightdm.conf
-- install "sudo apt install accountsservice"
-- install "sudo apt install lightdm-gtk-greeter-settings"
-- copy wallpapers you wish to use to /usr/share/backgrounds/<anyfolder>
-- select "Use user wallpaper if available" in LightDM GTK Greeter Settings app
