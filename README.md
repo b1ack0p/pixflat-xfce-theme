@@ -25,6 +25,7 @@ you may want to run "sudo gtk-update-icon-cache /usr/share/icons/PiXflat" after 
 
 you may need this also  "sudo apt install gtk2-engines"
 
+
 #LightDM user image on logon screen:
 - uncomment "Hide user greeter image = false" in /etc/lightdm/lightdm.conf
 - install "sudo apt install lightdm-gtk-greeter-settings"
@@ -35,6 +36,12 @@ you may need this also  "sudo apt install gtk2-engines"
 - install "sudo apt install accountsservice"
 - copy wallpapers you wish to use to /usr/share/backgrounds/anyfolder
 - select "Use user wallpaper if available" in LightDM GTK Greeter Settings app
+
+
+#Original files:
+- PiXflat theme files can be found : https://github.com/RPi-Distro/raspberrypi-ui-mods
+- PiXflat icons : http://archive.raspberrypi.org/debian/pool/main/p/pixflat-icons/
+
 
 #Screenshots:
 
