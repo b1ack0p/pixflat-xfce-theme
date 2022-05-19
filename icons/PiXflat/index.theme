@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=PiXflat-xfce-icons
-Comment=Icon theme for Raspberry Pi Desktop (modified for Xfce4)
+Name=PiXflat
+Comment=Icon theme for Raspberry Pi Desktop (modified for Xfce)
 Example=folder
 Inherits=gnome
 
