@@ -2,7 +2,7 @@
 Name=PiXflat
 Comment=Icon theme for Raspberry Pi Desktop (modified for Xfce)
 Example=folder
-Inherits=default
+Inherits=adwaita,gnome,hicolor,tango
 
 # KDE Specific Stuff
 DisplayDepth=32
