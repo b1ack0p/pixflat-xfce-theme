@@ -43,8 +43,8 @@ you may need this also  "sudo apt install gtk2-engines"
 
 
 #Original files:
-- Original (non-modified) PiXflat theme can be found in : https://github.com/RPi-Distro/raspberrypi-ui-mods
-- Original (non-modified) PiXflat icons : http://archive.raspberrypi.org/debian/pool/main/p/pixflat-icons/
+- Non-modified PiXflat theme can be found in : https://github.com/RPi-Distro/raspberrypi-ui-mods
+- Non-modified PiXflat icons : http://archive.raspberrypi.org/debian/pool/main/p/pixflat-icons/
 - Piboto font : https://archive.raspberrypi.org/debian/pool/main/f/fonts-piboto/
 
 
