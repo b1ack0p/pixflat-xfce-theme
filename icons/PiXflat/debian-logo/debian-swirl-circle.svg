@@ -14,7 +14,7 @@
    viewBox="0 0 512.00003 512"
    width="512"
    xml:space="preserve"
-   sodipodi:docname="debian-swirl2.svg"
+   sodipodi:docname="debian-swirl-circle.svg"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"><metadata
      id="metadata10"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
@@ -39,17 +39,7 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="Layer_1"
      inkscape:document-rotation="0" /><defs
-     id="defs7"><filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter1263"
-       x="-0.026802687"
-       width="1.0536054"
-       y="-0.027200263"
-       height="1.0544005"><feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="4.9028778"
-         id="feGaussianBlur1265" /></filter></defs><g
+     id="defs7" /><g
      id="g1351"
      transform="matrix(0.97736044,0,0,0.97725048,4.9848601,4.9842856)"><g
        id="g7966"
@@ -59,7 +49,7 @@
          id="path4894"
          style="fill:#d70751;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:14.7041;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          transform="matrix(0.69372678,0,0,0.69372678,3066.7144,8.875483)" /></g><path
-       id="path848"
+       id="path848-3"
        style="fill:none;fill-rule:evenodd;stroke:#f2f2f2;stroke-width:30.6966;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 316.95886,181.82451 c -45.76769,-46.57768 -127.01179,16.58902 -79.73465,83.98288 20.46431,29.17201 75.98316,32.20421 104.08313,9.72666 C 431.00568,203.78311 364.51483,86.043034 273.83084,84.287392 100.67977,80.935188 60.805071,368.78971 277.47905,428.1903"
+       d="m 313.5871,186.52778 c -72.32338,-50.57285 -140.21414,48.36749 -65.4085,108.47173 22.31358,17.92834 64.63369,29.13288 107.00159,-3.12454 C 446.95744,221.999 376.21948,62.920768 240.8075,89.38252 64.747197,123.78763 72.792877,396.20551 275.36866,427.22989"
        sodipodi:nodetypes="csssc" /></g></svg>
