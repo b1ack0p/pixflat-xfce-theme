@@ -13,7 +13,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="emblem-danger.svg">
+   sodipodi:docname="dialog-error.svg">
   <defs
      id="defs2">
     <marker
@@ -40,11 +40,11 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.4980469"
      inkscape:cx="256"
-     inkscape:cy="231.66816"
+     inkscape:cy="260.04282"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
-     showgrid="true"
+     showgrid="false"
      units="px"
      inkscape:window-width="1680"
      inkscape:window-height="982"
@@ -88,7 +88,7 @@
       </g>
       <g
          id="g874"
-         transform="translate(1.058333,-1.2141654)"
+         transform="rotate(0.50894652,396.79764,319.99274)"
          style="stroke-width:1.10405">
         <ellipse
            style="fill:#ffffff;fill-opacity:1;stroke-width:0.876336;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
@@ -103,7 +103,7 @@
            style="font-style:normal;font-weight:normal;font-size:136.481px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.321901"
            transform="matrix(1,0,0,0.82347888,-27.470703,11.138877)">
           <path
-             d="M 83.341198,17.644959 H 104.19987 V 42.568736 L 98.801936,88.417823 H 88.87241 L 83.341198,42.568736 Z"
+             d="m 81.466315,17.668633 23.367695,-0.295062 0.21261,24.829699 0.39483,46.112298 -23.367691,0.295062 -0.394838,-46.112298 z"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:136.481px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#ffffff;stroke-width:0.321901"
              id="path867"
              sodipodi:nodetypes="ccccccc" />
