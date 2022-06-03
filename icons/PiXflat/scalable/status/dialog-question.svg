@@ -13,7 +13,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="emblem-dialog-question.svg">
+   sodipodi:docname="dialog-question.svg">
   <defs
      id="defs2">
     <marker
@@ -88,7 +88,7 @@
       </g>
       <g
          id="g1096"
-         transform="translate(0,-2.6458334)"
+         transform="translate(2.9634258,-2.9273227)"
          style="stroke-width:1.10405">
         <g
            aria-label="?"
