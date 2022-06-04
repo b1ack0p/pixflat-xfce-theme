@@ -1,1 +1,2 @@
+/* use non-symbolic icons on panel */
 .xfce4-panel image { -gtk-icon-style: regular; }
