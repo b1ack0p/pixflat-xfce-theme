@@ -1,2 +1,8 @@
 /* use non-symbolic icons on panel */
 .xfce4-panel image { -gtk-icon-style: regular; }
+
+/* change text selection color */
+.view text selection {
+  background-color: #87919b;
+  color: black;
+}
