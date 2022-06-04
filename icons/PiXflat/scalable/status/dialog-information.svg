@@ -13,7 +13,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="dialog-error.svg">
+   sodipodi:docname="dialog-information.svg">
   <defs
      id="defs2">
     <marker
@@ -44,7 +44,7 @@
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
-     showgrid="false"
+     showgrid="true"
      units="px"
      inkscape:window-width="1680"
      inkscape:window-height="982"
@@ -80,7 +80,7 @@
          transform="matrix(0.98039214,0,0,0.98039214,-31.098536,-96.461019)"
          style="stroke-width:1.78773;stroke-miterlimit:4;stroke-dasharray:none">
         <circle
-           style="fill:#ff0048;fill-opacity:1;stroke:#000000;stroke-width:1.78773;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:#00a7ff;fill-opacity:1;stroke:#000000;stroke-width:1.78773;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path833"
            cx="100.69353"
            cy="167.6313"
@@ -88,7 +88,7 @@
       </g>
       <g
          id="g874"
-         transform="rotate(0.50894652,396.79764,319.99274)"
+         transform="rotate(-179.40426,67.563343,69.574817)"
          style="stroke-width:1.10405">
         <ellipse
            style="fill:#ffffff;fill-opacity:1;stroke-width:0.876336;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
