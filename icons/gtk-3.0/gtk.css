@@ -11,47 +11,49 @@
 @define-color selection_bg_color #ffe500;
 @define-color selection_txt_color #111;
 
-.rubberband {
+.rubberband, rubberband, flowbox rubberband, treeview.view rubberband, .content-view rubberband, .content-view .rubberband {
 	border: 1px solid @selection_bg_color;
 	color: @selection_txt_color;
 	background-color: alpha (@selection_bg_color, 0.1); 
 }
-
 
 entry selection {
 	color: @selection_txt_color;
 	background-color: @selection_bg_color;
 }
 
-
 .view text selection { 
 	color : @selection_txt_color;
 	background-color: @selection_bg_color;
 }
-
 
 .view:selected { 
 	color : @selection_txt_color;
 	background-color: @selection_bg_color;
 }
 
-
+/*
 row:selected {
 	color: @selection_txt_color;	
 	background-color: @selection_bg_color;
 }
-
+*/
 
 menu menuitem:hover {
 	color: @selection_txt_color;
 	background-color: @selection_bg_color; 
 }
 
-
 calendar:selected {
 	color: @selection_txt_color;	
 	background-color: @selection_bg_color;
 }
 
-
 /*********************************/
+
+/*
+modelbutton.flat:selected, .menuitem.button.flat:selected, treeview.view:selected, iconview:selected {
+  background-color: @selection_bg_color; 
+  color: #000;
+}
+*/
