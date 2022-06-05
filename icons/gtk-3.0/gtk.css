@@ -9,45 +9,48 @@
 **************************/
 
 @define-color selection_bg_color #ffe500;
+@define-color selection_txt_color #222;
 
 .rubberband, rubberband, flowbox rubberband, treeview.view rubberband, .content-view rubberband, .content-view .rubberband {
 	border: 1px solid @selection_bg_color;
+	color: @selection_txt_color;
 	background-color: alpha (@selection_bg_color, 0.1); 
 }
 
 
 entry selection {
-	color: black;
+	color: @selection_txt_color;
 	background-color: @selection_bg_color;
 }
 
 
 .view text selection { 
-	color : black;
+	color : @selection_txt_color;
 	background-color: @selection_bg_color;
 }
 
 
 .view:selected:focus, iconview:selected:focus, .view:selected, iconview:selected { 
-	color : black;
+	color : @selection_txt_color;
 	background-color: @selection_bg_color;
 }
 
 
 .menuitem.button.flat:selected, treeview.view:selected:focus, treeview.view:selected, row:selected, calendar:selected {
-	color: black;	
+	color: @selection_txt_color;	
 	background-color: @selection_bg_color;
 }
 
 
 .menuitem.button.flat:disabled:selected, row:disabled:selected, calendar:disabled:selected {
-	color: black;
+	color: @selection_txt_color;
 	background-color: @selection_bg_color;
 }
 
 
 menu menuitem:hover, .menu menuitem:hover, .context-menu menuitem:hover {
-	color: black;
-	background-color: @selection_bg_color; }
+	color: @selection_txt_color;
+	background-color: @selection_bg_color; 
+}
 
 /*********************************/
