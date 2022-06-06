@@ -1,12 +1,9 @@
-/****************************************
-* USE NON-SYMBOLIC ICONS ON XFCE PANEL *
-****************************************/
+/* USE NON-SYMBOLIC ICONS ON XFCE PANEL */
+
 .xfce4-panel image { -gtk-icon-style: regular; }
 
 
-/**************************
-* CUSTOM SELECTION COLORS *
-**************************/
+/* CUSTOM SELECTION COLORS */
 
 @define-color selection_bg_color #ffe500;
 @define-color selection_txt_color #111;
@@ -32,7 +29,7 @@ entry selection {
 	background-color: @selection_bg_color;
 }
 
-/*
+/* CHANGES FILE CHOOSER SIDE BAR MENU SELECTED COLORS BUT BUGGY
 row:selected {
 	color: @selection_txt_color;	
 	background-color: @selection_bg_color;
@@ -51,7 +48,7 @@ calendar:selected {
 
 /*********************************/
 
-/*
+/* ALSO CHANGES MENULIST SELECTION COLORS
 modelbutton.flat:selected, .menuitem.button.flat:selected, treeview.view:selected, iconview:selected {
   background-color: @selection_bg_color; 
   color: #000;
