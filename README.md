@@ -21,9 +21,9 @@ For xfwm4 theme I modified Mowi-24 xfwm4 theme and enlarged window title bars to
 - Settings Manager > Window Manager Tweaks > Compositor > disable "Show shadows under dock windows/regular windows/popup windows/
 - Settings Manager > Mouse and Touchpad > Theme > choose PiXflat (I combined default PiXflat cursor icons with https://store.kde.org/p/1416041/)
 
-(*Please note that "PiX" theme is buggy - needs fixing.)
+*NOTE: "PiX" theme is buggy - needs fixing.
 
-- to use regular icons instead of symbolic icons as status icons on XFCE panel (this is necessary to get correct colored icons for the status icons such as battery/volume/notification icons otherwise they will appear black and broken) edit or create "gtk.css" in your /home/user/.config/gtk3/gtk.css and add this line ".xfce4-panel image { -gtk-icon-style: regular; }" or copy .css file from /icons/gtk3 to /home/user/.config/gtk3/ folder
+*IMPORTANT: to use regular icons instead of symbolic icons as status icons on XFCE panel (this is necessary to get correct colored icons for the status icons such as battery/volume/notification icons otherwise they will appear black and broken) edit or create "gtk.css" in your /home/user/.config/gtk3/gtk.css and add this line ".xfce4-panel image { -gtk-icon-style: regular; }" or copy .css file from /icons/gtk3 to /home/user/.config/gtk3/ folder
 
 you may want to run "sudo gtk-update-icon-cache /usr/share/icons/PiXflat" after selecting icon theme. if you make any change on icon theme run the same command to refresh system.
 
