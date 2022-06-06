@@ -9,7 +9,7 @@ For xfwm4 theme I modified Mowi-24 xfwm4 theme and enlarged window title bars to
 
 #Getting ready:
 - Copy "icons/PiXflat" to /usr/share/icons
-- Copy "PiX/PiXflat/PiXflat-blue" themes in "themes" folder to /usr/share/themes or ~/.themes in your user dir.
+- Copy "PiX/PiXflat/PiXflat-blue" themes from "themes" folder to /usr/share/themes or ~/.themes in your user dir.
 - install "font/fonts-piboto_1.2_all.deb" file which contains official RaspiOS fonts "Piboto"
 
 
