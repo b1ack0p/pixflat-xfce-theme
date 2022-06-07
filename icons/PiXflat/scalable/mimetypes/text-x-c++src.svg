@@ -100,7 +100,11 @@
      inkscape:window-height="982"
      inkscape:window-x="0"
      inkscape:window-y="37"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid947" />
+  </sodipodi:namedview>
   <metadata
      id="metadata1417">
     <rdf:RDF>
@@ -192,22 +196,28 @@
            id="path984" />
       </g>
       <g
-         aria-label="C++"
-         id="text853"
-         style="font-style:normal;font-weight:normal;font-size:10.5834px;line-height:1.25;font-family:sans-serif;fill:#004283;fill-opacity:1;stroke:none;stroke-width:0.264585"
-         transform="translate(0.51378332,0.05876359)">
+         id="g982"
+         transform="translate(0.87699109,-0.01246702)">
+        <g
+           aria-label="C++"
+           id="text853"
+           style="font-style:normal;font-weight:normal;font-size:10.5834px;line-height:1.25;font-family:sans-serif;fill:#659bd3;fill-opacity:1;stroke:none;stroke-width:0.264585"
+           transform="translate(0.51378332,0.05876359)">
+          <path
+             d="m 25.954081,36.262608 q -2.031843,0 -3.780174,-0.6869 -1.748329,-0.686896 -3.047763,-1.908053 -1.299436,-1.221153 -2.008219,-2.900238 -0.708782,-1.704528 -0.708782,-3.765225 0,-2.035257 0.732408,-3.714343 0.732411,-1.704528 2.008218,-2.925682 1.299434,-1.246594 3.047765,-1.933493 1.771957,-0.686899 3.803799,-0.686899 1.346688,0 2.59887,0.356171 1.252183,0.330728 2.338984,0.941304 1.110425,0.585139 1.937337,1.424681 L 30.1359,24.152832 q -0.472523,-0.508813 -1.0868,-0.915866 -0.590652,-0.40705 -1.39394,-0.661457 -0.779661,-0.254407 -1.771957,-0.254407 -0.897791,0 -1.748328,0.305289 -0.850541,0.305288 -1.512072,0.915864 -0.637904,0.610577 -1.015921,1.501003 -0.378018,0.864983 -0.378018,2.009814 0,1.119393 0.378018,1.984377 0.401644,0.864982 1.110427,1.450118 0.708782,0.585138 1.630199,0.915867 0.921418,0.33073 2.008218,0.33073 0.992295,0 1.771955,-0.30529 0.803288,-0.305289 1.417565,-0.73778 0.637905,-0.432492 1.134053,-0.890424 l 2.197225,3.816106 q -0.637902,0.661458 -1.724704,1.272036 -1.086798,0.610575 -2.433486,0.992186 -1.346688,0.38161 -2.764253,0.38161 z"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Lexend Exa';-inkscape-font-specification:'Lexend Exa Ultra-Bold';fill:#659bd3;fill-opacity:1;stroke-width:0.264585"
+             id="path973" />
+        </g>
         <path
-           d="m 25.954081,36.262608 q -2.031843,0 -3.780174,-0.6869 -1.748329,-0.686896 -3.047763,-1.908053 -1.299436,-1.221153 -2.008219,-2.900238 -0.708782,-1.704528 -0.708782,-3.765225 0,-2.035257 0.732408,-3.714343 0.732411,-1.704528 2.008218,-2.925682 1.299434,-1.246594 3.047765,-1.933493 1.771957,-0.686899 3.803799,-0.686899 1.346688,0 2.59887,0.356171 1.252183,0.330728 2.338984,0.941304 1.110425,0.585139 1.937337,1.424681 L 30.1359,24.152832 q -0.472523,-0.508813 -1.0868,-0.915866 -0.590652,-0.40705 -1.39394,-0.661457 -0.779661,-0.254407 -1.771957,-0.254407 -0.897791,0 -1.748328,0.305289 -0.850541,0.305288 -1.512072,0.915864 -0.637904,0.610577 -1.015921,1.501003 -0.378018,0.864983 -0.378018,2.009814 0,1.119393 0.378018,1.984377 0.401644,0.864982 1.110427,1.450118 0.708782,0.585138 1.630199,0.915867 0.921418,0.33073 2.008218,0.33073 0.992295,0 1.771955,-0.30529 0.803288,-0.305289 1.417565,-0.73778 0.637905,-0.432492 1.134053,-0.890424 l 2.197225,3.816106 q -0.637902,0.661458 -1.724704,1.272036 -1.086798,0.610575 -2.433486,0.992186 -1.346688,0.38161 -2.764253,0.38161 z"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Lexend Exa';-inkscape-font-specification:'Lexend Exa Ultra-Bold';fill:#004283;fill-opacity:1;stroke-width:0.264585"
-           id="path973" />
+           d="m 32.021827,27.501198 v -1.322917 h 3.968777 v 1.322917 z m 1.322926,1.322917 v -3.96875 h 1.322926 v 3.96875 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5834px;line-height:1.25;font-family:'Lexend Exa';-inkscape-font-specification:'Lexend Exa';fill:#659bd3;fill-opacity:1;stroke:none;stroke-width:0.264585"
+           id="path975"
+           sodipodi:nodetypes="cccccccccc" />
         <path
-           d="M 31.759108,27.124711 V 26.35408 h 4.230765 v 0.770631 z m 1.672269,1.610619 v -3.96875 h 0.870813 v 3.96875 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lexend Exa';-inkscape-font-specification:'Lexend Exa';fill:#004283;fill-opacity:1;stroke-width:0.264585"
-           id="path975" />
-        <path
-           d="M 37.207461,27.124711 V 26.35408 h 4.230764 v 0.770631 z m 1.672269,1.610619 v -3.96875 h 0.870813 v 3.96875 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lexend Exa';-inkscape-font-specification:'Lexend Exa';fill:#004283;fill-opacity:1;stroke-width:0.264585"
-           id="path977" />
+           d="m 36.784362,27.501199 v -1.322917 h 3.968778 v 1.322917 z m 1.322927,1.322917 v -3.96875 h 1.322925 v 3.96875 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5834px;line-height:1.25;font-family:'Lexend Exa';-inkscape-font-specification:'Lexend Exa';fill:#659bd3;fill-opacity:1;stroke:none;stroke-width:0.264585"
+           id="path975-3"
+           sodipodi:nodetypes="cccccccccc" />
       </g>
     </g>
   </g>
