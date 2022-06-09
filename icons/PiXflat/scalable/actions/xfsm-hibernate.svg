@@ -12,7 +12,7 @@
    viewBox="0 0 12.7 12.7"
    version="1.1"
    id="svg8"
-   sodipodi:docname="hibernate.svg"
+   sodipodi:docname="xfsm-hibernate.svg"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <defs
      id="defs2" />
@@ -83,23 +83,23 @@
     <path
        d="M 8.4662215,8.4666667 C 7.022606,10.119741 4.4058373,10.197591 2.6219518,8.6390937 2.4607674,8.4987629 2.3136425,8.349533 2.177,8.1944526 3.5340139,7.946339 4.8188703,7.2560727 5.7965038,6.1360842 6.7741372,5.0160957 7.2844078,3.6500449 7.3472062,2.2715826 7.5198936,2.3847703 7.6868291,2.5115294 7.8480134,2.6518602 9.6332794,4.2097984 9.9098385,6.8135923 8.4662233,8.4666675 Z"
        id="path4"
-       style="fill:#333333;stroke-width:0.264583" />
+       style="fill:#fef490;fill-opacity:1;stroke-width:0.264583" />
     <g
        aria-label="Z"
        id="text847"
-       style="font-style:normal;font-weight:normal;font-size:18.8967px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264584">
+       style="font-style:normal;font-weight:normal;font-size:18.8967px;line-height:1.25;font-family:sans-serif;fill:#fef490;fill-opacity:1;stroke:none;stroke-width:0.264584">
       <path
          d="M 2.146964,5.253691 3.55131,3.495029 H 2.1820265 V 3.0133808 H 4.2599419 V 3.4691935 L 2.837142,5.253691 H 4.2636327 V 5.7334938 H 2.146964 Z M 3.2209842,3.0133808 Z"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.77937px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';stroke-width:0.264584"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.77937px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';stroke-width:0.264584;fill:#fef490;fill-opacity:1"
          id="path876" />
     </g>
     <g
        aria-label="Z"
        id="text847-3"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583">
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#fef490;fill-opacity:1;stroke:none;stroke-width:0.264583">
       <path
          d="M 4.9710562,3.4824754 5.7575727,2.4975211 H 4.9906933 V 2.2277697 h 1.163755 v 0.255282 L 5.3575965,3.4824754 H 6.1565154 V 3.7511933 H 4.9710562 Z M 5.5725708,2.2277697 Z"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';stroke-width:0.264583;fill:#fef490;fill-opacity:1"
          id="path873" />
     </g>
   </g>
