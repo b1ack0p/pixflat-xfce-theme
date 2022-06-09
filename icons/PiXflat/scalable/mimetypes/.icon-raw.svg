@@ -19,6 +19,30 @@
      id="defs2">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient1219">
+      <stop
+         style="stop-color:#c8c8c8;stop-opacity:1;"
+         offset="0"
+         id="stop1215" />
+      <stop
+         style="stop-color:#c8c8c8;stop-opacity:0;"
+         offset="1"
+         id="stop1217" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient986">
+      <stop
+         style="stop-color:#c8c8c8;stop-opacity:1;"
+         offset="0"
+         id="stop982" />
+      <stop
+         style="stop-color:#c8c8c8;stop-opacity:0;"
+         offset="1"
+         id="stop984" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient919">
       <stop
          style="stop-color:#c85456;stop-opacity:1"
@@ -39,6 +63,46 @@
        y2="10.979763"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-0.00113736,-4.2278593e-4)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient986"
+       id="radialGradient988"
+       cx="7.8485336"
+       cy="6.5081315"
+       fx="7.8485336"
+       fy="6.5081315"
+       r="3.3072916"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient986"
+       id="radialGradient990"
+       gradientUnits="userSpaceOnUse"
+       cx="7.8485336"
+       cy="6.5081315"
+       fx="7.8485336"
+       fy="6.5081315"
+       r="3.3072915" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient986"
+       id="radialGradient990-3"
+       gradientUnits="userSpaceOnUse"
+       cx="7.8485336"
+       cy="6.5081315"
+       fx="7.8485336"
+       fy="6.5081315"
+       r="3.3072915" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1219"
+       id="linearGradient1221"
+       x1="12.999789"
+       y1="4.8658527"
+       x2="19.614372"
+       y2="4.8658527"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1.9784179,-0.6135431)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -49,11 +113,11 @@
      inkscape:pageshadow="2"
      inkscape:zoom="15.979167"
      inkscape:cx="24"
-     inkscape:cy="24"
+     inkscape:cy="26.503259"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
-     showgrid="true"
+     showgrid="false"
      units="px"
      inkscape:window-width="1680"
      inkscape:window-height="982"
@@ -138,34 +202,34 @@
            sodipodi:nodetypes="ccccccccccc" />
       </g>
     </g>
-    <path
-       sodipodi:type="star"
-       style="fill:#008080;stroke-width:1.05833;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.968627"
-       id="path853-3"
-       sodipodi:sides="3"
-       sodipodi:cx="6.9328136"
-       sodipodi:cy="6.1945367"
-       sodipodi:r1="3.8493316"
-       sodipodi:r2="1.9246662"
-       sodipodi:arg1="0.92143589"
-       sodipodi:arg2="1.9686334"
-       inkscape:flatsided="true"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       inkscape:transform-center-x="0.74566425"
-       inkscape:transform-center-y="-0.24141166"
-       d="M 9.2604165,9.2604165 3.1138824,6.67736 8.424142,2.6458336 Z" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.27808px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="3.4770522"
-       y="12.474092"
+       x="3.5226402"
+       y="12.469424"
        id="text2959"
        transform="scale(1.031307,0.96964338)"><tspan
          sodipodi:role="line"
          id="tspan2957"
-         x="3.4770522"
-         y="12.474092"
+         x="3.5226402"
+         y="12.469424"
          style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:1.81952px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';fill:#ffffff;stroke-width:0.264583">I C O N</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#008080;stroke:#2e0080;stroke-width:0;stroke-linecap:round"
+       id="path870"
+       sodipodi:sides="3"
+       sodipodi:cx="6.5459021"
+       sodipodi:cy="5.7431229"
+       sodipodi:r1="3.650269"
+       sodipodi:r2="1.8251345"
+       sodipodi:arg1="0.99118868"
+       sodipodi:arg2="2.0383862"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 8.5451389,8.7972214 2.9013572,5.9474636 8.1912107,2.4846841 Z"
+       inkscape:transform-center-x="0.82265424"
+       inkscape:transform-center-y="-0.10217034" />
   </g>
 </svg>

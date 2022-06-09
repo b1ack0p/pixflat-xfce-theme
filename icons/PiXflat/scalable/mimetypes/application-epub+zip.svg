@@ -164,27 +164,25 @@
        id="g861">
       <path
          style="fill:none;stroke:#969696;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 3.4395833,3.4395833 H 9.2604165"
+         d="M 3.4395833,3.4395833 H 6.35"
          id="path850" />
       <path
-         style="fill:none;stroke:#969696;stroke-width:0.529165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 6.3500001,5.0270833 H 9.2604167"
-         id="path850-6" />
+         style="fill:none;stroke:#969696;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 3.4395833,5.0270833 H 6.35"
+         id="path850-3" />
       <path
          style="fill:none;stroke:#969696;stroke-width:0.529165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 6.3500001,6.6145833 H 9.2604167"
-         id="path850-6-7" />
+         d="M 3.4395835,6.6145833 H 6.3500001"
+         id="path850-3-6" />
       <path
-         style="fill:none;stroke:#969696;stroke-width:0.529165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 6.3500001,8.2020833 H 9.2604167"
-         id="path850-6-5" />
-      <rect
-         style="opacity:0.4;fill:#86b918;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect921"
-         width="2.1166666"
-         height="3.7041667"
-         x="3.4395831"
-         y="4.7624998" />
+         style="fill:none;stroke:#969696;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 3.4395837,8.2020833 h 5.820833"
+         id="path850-3-7" />
     </g>
+    <path
+       fill="#ff5959"
+       d="M 7.4083334,0.26458327 H 9.5249997 V 5.9089396 L 8.4666667,4.4979167 7.4083334,5.9089396 Z"
+       id="path44"
+       style="opacity:0.5;stroke-width:0.264583" />
   </g>
 </svg>
