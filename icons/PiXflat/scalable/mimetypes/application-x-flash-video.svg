@@ -14,7 +14,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="gnome-mime-application-x-shockwave-flash.svg">
+   sodipodi:docname="video-x-flv.svg">
   <defs
      id="defs2">
     <linearGradient
@@ -139,26 +139,26 @@
       </g>
     </g>
     <path
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#e80000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264586;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
        d="M 5.5373595,6.3365735 C 4.8296143,8.0846908 3.6863103,8.0606106 3.6863103,8.0606106 v 1.1130038 c 1.7695496,0 2.4745758,-1.2219068 2.9874045,-2.4559337 H 8.1142096 V 5.55625 H 7.14375 C 7.7564361,4.1653196 8.7675743,4.2133201 8.7675743,4.2133201 V 3.0881963 c -2.0325127,0 -2.6054797,1.7051283 -3.2302148,3.2483772 z"
-       id="XMLID_52_" />
+       id="XMLID_52_"
+       style="fill:#e80000;fill-opacity:1;stroke-width:0.264586" />
     <g
-       aria-label="S W F"
+       aria-label="F L V"
        transform="scale(1.031307,0.96964338)"
        id="text2959"
        style="font-style:normal;font-weight:normal;font-size:7.27808px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583">
       <path
-         d="m 4.4656582,12.499382 c 0.3347916,0 0.5203827,-0.160118 0.5203827,-0.413031 0,-0.463978 -0.6240954,-0.323875 -0.6240954,-0.511285 0,-0.06368 0.070961,-0.09825 0.1946887,-0.09825 0.1018931,0 0.2147033,0.01819 0.3038598,0.04913 l 0.087337,-0.251094 c -0.1055322,-0.04731 -0.2456352,-0.0746 -0.3748212,-0.0746 -0.3202355,0 -0.5385779,0.167396 -0.5385779,0.422128 0,0.429407 0.6204563,0.307499 0.6204563,0.502188 0,0.05823 -0.054586,0.09098 -0.1764934,0.09098 -0.1146298,0 -0.2529133,-0.02183 -0.3784602,-0.0746 l -0.087337,0.258371 c 0.1291859,0.05823 0.2965817,0.100074 0.4530605,0.100074 z"
+         d="M 4.3549057,12.496527 H 4.6751413 V 12.02891 H 5.1900654 V 11.752343 H 4.6751413 V 11.510347 H 5.2555681 V 11.23378 H 4.3549057 Z"
          style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:1.81952px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';fill:#ffffff;stroke-width:0.264583"
-         id="path1032" />
+         id="path863" />
       <path
-         d="M 5.7065699,12.481187 H 6.0522787 L 6.2415088,11.67332 6.4616707,12.481187 H 6.7982819 L 7.1876592,11.21844 H 6.8692432 L 6.6436227,12.071795 6.4270998,11.225718 H 6.0832105 L 5.8885219,12.088171 5.6756381,11.21844 H 5.3208317 Z"
+         d="M 5.7068057,12.496527 H 6.5437849 V 12.21814 H 6.0215827 v -0.98436 h -0.314777 z"
          style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:1.81952px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';fill:#ffffff;stroke-width:0.264583"
-         id="path1034" />
+         id="path865" />
       <path
-         d="M 7.6006881,12.481187 H 7.9209236 V 12.01357 H 8.4358478 V 11.737003 H 7.9209236 V 11.495007 H 8.5013505 V 11.21844 H 7.6006881 Z"
+         d="M 7.2952441,12.496527 H 7.6318553 L 8.0812768,11.23378 H 7.7555827 L 7.4771961,12.121706 7.2170048,11.23378 H 6.8494617 Z"
          style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:1.81952px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';fill:#ffffff;stroke-width:0.264583"
-         id="path1036" />
+         id="path868" />
     </g>
   </g>
 </svg>
