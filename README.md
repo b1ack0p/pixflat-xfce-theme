@@ -18,7 +18,7 @@ For xfwm4 theme I modified Mowi-24 xfwm4 theme and enlarged window title bars to
 - theme:
 	.PiX theme
 	.PiXflat theme (modified gray theme)
-	.PiXflat theme (modified blue theme)
+	.PiXflat-blue theme (modified blue theme)
 
 #Getting ready:
 - Copy "icons/PiXflat" to /usr/share/icons
