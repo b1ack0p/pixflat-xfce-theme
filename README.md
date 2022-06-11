@@ -6,6 +6,19 @@ I mostly kept original PiXflat icons, renamed some of them to adapt to XFCE and 
 
 For xfwm4 theme I modified Mowi-24 xfwm4 theme and enlarged window title bars to 32px from 24px and made window close/minimize/maximize buttons same with original PiXflat theme. unfortunately after I changed title bar size Mowi xfwm4 theme no longer brought the main PiXflat theme colors so I had to color bars myself. so this also needs fixing. originally Mowi-24 theme takes the colors from main theme. Mowi-24 xfwm4 theme can be downloaded here: https://www.xfce-look.org/p/1700122/
 
+#What is inside:
+- font : Default RaspberryPiOS font - Piboto
+- icons: 
+	.PiXflat-inherited: low modified PiXflat icons inherited Gnome icons (you need to install Gnome icons separately)
+	.PiXflat-merged: high modified PiXflat icons merged with Gnome icons (you don't need to install Gnome icons)
+	.gnome-icons: contains Gnome icon theme v3.12.0-3 package
+	.gtk-3.0: contains sample gtk.css file
+
+- rpd-wallpaper: RaspberryPiOS default wallpapers
+- theme:
+	.PiX theme
+	.PiXflat theme (modified gray theme)
+	.PiXflat theme (modified blue theme)
 
 #Getting ready:
 - Copy "icons/PiXflat" to /usr/share/icons
