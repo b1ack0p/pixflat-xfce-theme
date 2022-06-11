@@ -2,7 +2,7 @@
 
 This is Raspberry Pi OS PiXflat modified theme and icons for XFCE. I love the simplicity and clean look of RaspiOS theme so I wanted to modify it for XFCE. it is my self amateur work so I can't say it is perfect but at least it looks like RaspiOS theme very close enough. Any contribution to make it perfect is very welcome.
 
-I used RaspiOS' original PiXflat theme and Gnome/Adwaita/hi-color icons to modify icon theme. I mostly kept original PiXflat icons, renamed some of them to adapt to XFCE and added additional icons from Adwaita and/or Gnome icons. there was no built in battery icons in PiXflat so i draw myself in inkscape but there are some rendering issues in XFCE. Anyone who can make better battery icons or make my icons better or fix rendering issue is welcome.
+I mostly kept original PiXflat icons, renamed some of them to adapt to XFCE and added additional icons. I also draw and added some other icons in scalable format. there was no built in battery icons in PiXflat so i draw myself in inkscape but there are some rendering issues in XFCE.  Anyone who can make better battery icons or make my icons better or fix rendering issue is welcome.
 
 For xfwm4 theme I modified Mowi-24 xfwm4 theme and enlarged window title bars to 32px from 24px and made window close/minimize/maximize buttons same with original PiXflat theme. unfortunately after I changed title bar size Mowi xfwm4 theme no longer brought the main PiXflat theme colors so I had to color bars myself. so this also needs fixing. originally Mowi-24 theme takes the colors from main theme. Mowi-24 xfwm4 theme can be downloaded here: https://www.xfce-look.org/p/1700122/
 
@@ -22,6 +22,8 @@ For xfwm4 theme I modified Mowi-24 xfwm4 theme and enlarged window title bars to
 - Settings Manager > Mouse and Touchpad > Theme > choose PiXflat (I combined default PiXflat cursor icons with https://store.kde.org/p/1416041/)
 
 *NOTE: "PiX" theme is buggy - needs fixing.
+
+*NOTE2: PiXflat icon theme inherits from Gnome 3.12.0-3 icons. You can find Gnome icon theme in the repository directory or you can download from the link below.
 
 *IMPORTANT: to use regular icons instead of symbolic icons as status icons on XFCE panel (this is necessary to get correct colored icons for the status icons such as battery/volume/notification icons otherwise they will appear black and broken) edit or create "gtk.css" in your /home/user/.config/gtk3/gtk.css and add this line ".xfce4-panel image { -gtk-icon-style: regular; }" or copy .css file from /icons/gtk3 to /home/user/.config/gtk3/ folder
 
@@ -46,6 +48,7 @@ you may need this also  "sudo apt install gtk2-engines"
 - Non-modified PiXflat theme can be found in : https://github.com/RPi-Distro/raspberrypi-ui-mods
 - Non-modified PiXflat icons : http://archive.raspberrypi.org/debian/pool/main/p/pixflat-icons/
 - Piboto font : https://archive.raspberrypi.org/debian/pool/main/f/fonts-piboto/
+- Gnome icon theme (3.12.0-3): https://packages.debian.org/bullseye/all/gnome-icon-theme/download
 
 
 #Screenshots:
