@@ -498,7 +498,7 @@ Type=Scalable
 Context=Devices
 Size=16
 MinSize=16
-MaxSize=16
+MaxSize=22
 Type=Scalable
 
 [symbolic/emblems]
