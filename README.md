@@ -66,6 +66,8 @@ you may need this also  "sudo apt install gtk2-engines"
 
 #Screenshots:
 
+![Screenshot_2022-06-13_03-08-13](https://user-images.githubusercontent.com/72235930/173259366-db8a723d-2116-410b-81d9-bda779a4ebdf.png)
+
 ![Screenshot_2022-05-18_18-14-22](https://user-images.githubusercontent.com/72235930/169077238-0604d2fe-3097-4fbd-ac01-e3fc0fd92570.png)
 
 ![Screenshot_2022-05-19_15-57-56](https://user-images.githubusercontent.com/72235930/169299911-8a9e71c2-37a1-489e-a235-e8031f96f192.png)
