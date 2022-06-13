@@ -8,13 +8,16 @@ For xfwm4 theme I modified Mowi-24 xfwm4 theme and enlarged window title bars to
 
 #What is inside:
 - font : Default RaspberryPiOS font - Piboto
+
+- gtk-3.0 : contains sample gtk.css file
+
 - icons: 
 	.PiXflat: modified PiXflat icons inherits to Gnome icons (you need to install Gnome icons separately)
 	.PiX: retro look of PiXflat icons (early RpiOS icons)
 	.gnome-icons: contains Gnome icon theme v3.12.0-3 package
-	.gtk-3.0: contains sample gtk.css file
 
 - Wallpaper: RaspberryPiOS default wallpapers (rpd-wallpaper)
+
 - theme:
 	.PiX theme
 	.PiXflat theme (modified gray theme)
