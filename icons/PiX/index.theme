@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=PiX
-Comment=Icon theme for Raspberry Pi Desktop
+Comment=Icon theme for Raspberry Pi Desktop (modified for Xfce)
 Example=folder
 Inherits=gnome
 
@@ -21,7 +21,7 @@ PanelDefault=32
 PanelSizes=16,22,32,48,64,72,96,128
 
 # Directory list
-Directories=192x192/mimetypes,192x192/places,160x160/mimetypes,160x160/places,128x128/mimetypes,128x128/places,96x96/mimetypes,96x96/places,80x80/mimetypes,80x80/places,64x64/mimetypes,64x64/places,48x48/actions,48x48/apps,48x48/mimetypes,48x48/categories,48x48/devices,48x48/places,48x48/status,40x40/mimetypes,40x40/places,32x32/actions,32x32/apps,32x32/categories,32x32/devices,32x32/mimetypes,32x32/places,32x32/status,24x24/actions,24x24/apps,24x24/categories,24x24/devices,24x24/mimetypes,24x24/places,24x24/status,20x20/mimetypes,20x20/places,16x16/actions,16x16/apps,16x16/categories,16x16/devices,16x16/mimetypes,16x16/places,16x16/status,16x16/ui
+Directories=192x192/mimetypes,192x192/places,160x160/mimetypes,160x160/places,128x128/mimetypes,128x128/places,96x96/mimetypes,96x96/places,80x80/mimetypes,80x80/places,64x64/mimetypes,64x64/places,48x48/actions,48x48/apps,48x48/categories,48x48/devices,48x48/emblems,48x48/mimetypes,48x48/places,48x48/status,40x40/mimetypes,40x40/places,32x32/actions,32x32/apps,32x32/categories,32x32/devices,32x32/emblems,32x32/mimetypes,32x32/places,32x32/status,24x24/actions,24x24/apps,24x24/categories,24x24/devices,24x24/emblems,24x24/mimetypes,24x24/places,24x24/status,20x20/mimetypes,20x20/places,16x16/actions,16x16/apps,16x16/categories,16x16/devices,16x16/emblems,16x16/mimetypes,16x16/places,16x16/status,16x16/ui,scalable/actions,scalable/apps,scalable/devices,scalable/emblems,scalable/mimetypes,scalable/places,scalable/status,
 
 [192x192/mimetypes]
 Context=Mimetypes
@@ -103,6 +103,11 @@ Context=Devices
 Size=48
 Type=Fixed
 
+[48x48/emblems]
+Context=Emblems
+Size=48
+Type=Fixed
+
 [48x48/mimetypes]
 Context=Mimetypes
 Size=48
@@ -148,6 +153,11 @@ Context=Devices
 Size=32
 Type=Fixed
 
+[32x32/emblems]
+Context=Emblems
+Size=32
+Type=Fixed
+
 [32x32/mimetypes]
 Context=Mimetypes
 Size=32
@@ -180,6 +190,11 @@ Type=Fixed
 
 [24x24/devices]
 Context=Devices
+Size=24
+Type=Fixed
+
+[24x24/emblems]
+Context=Emblems
 Size=24
 Type=Fixed
 
@@ -228,6 +243,11 @@ Context=Devices
 Size=16
 Type=Fixed
 
+[16x16/emblems]
+Context=Emblems
+Size=16
+Type=Fixed
+
 [16x16/mimetypes]
 Context=Mimetypes
 Size=16
@@ -248,3 +268,58 @@ Context=UI
 Size=16
 Type=Fixed
 
+[scalable/actions]
+Context=Actions
+Size=16
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+[scalable/apps]
+Context=Applications
+Size=16
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+[scalable/categories]
+Context=Categories
+Size=16
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+[scalable/devices]
+Context=Devices
+Size=16
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+[scalable/emblems]
+Context=Emblems
+Size=16
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+[scalable/mimetypes]
+Context=MimeTypes
+Size=16
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+[scalable/places]
+Context=Places
+Size=16
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+[scalable/status]
+Context=Status
+Size=16
+MinSize=16
+MaxSize=512
+Type=Scalable
