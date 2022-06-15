@@ -1,0 +1,8 @@
+pixflat-blue: #4d98f5
+pixflat-gray: #87919b
+tool-tip: #808080
+inside-file-manager: #ededed
+inactive-panel-bar: #ededed
+active panel bar: #d6d4d2
+selected panel bar: #b4b1ae
+inactive-title-bar: #ededed
