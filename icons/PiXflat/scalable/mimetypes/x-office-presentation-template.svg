@@ -14,7 +14,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="presentation2.svg">
+   sodipodi:docname="x-office-presentation-template.svg">
   <defs
      id="defs2">
     <linearGradient
@@ -94,7 +94,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -207,16 +207,14 @@
            d="m 21.054165,30.334507 h 1.62545 v 5.813744 h -1.62545 z" />
         <path
            id="rect2658-3"
-           style="fill:#9c7f7f;fill-opacity:1;stroke:none;stroke-width:6.91059;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           transform="matrix(1,0,-0.69870858,0.7154064,0,0)"
-           d="m 46.538998,42.371143 h 2.180656 v 7.804088 h -2.180656 z" />
+           style="fill:#9c7f7f;fill-opacity:1;stroke:none;stroke-width:6.08939;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 16.862023,30.312587 h 2.25255 l -5.632555,5.866146 h -2.25255 z" />
         <path
            id="rect2658-3-0"
-           style="fill:#9c7f7f;fill-opacity:1;stroke:none;stroke-width:6.91047;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           inkscape:transform-center-x="-5.815524"
-           inkscape:transform-center-y="-2.0134997"
-           transform="matrix(-1,0,0.69867513,0.71543907,0,0)"
-           d="m 2.8559411,42.369999 h 2.1804523 v 7.803732 H 2.8559411 Z" />
+           style="fill:#9c7f7f;fill-opacity:1;stroke:none;stroke-width:6.11207;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:transform-center-x="-6.0525922"
+           inkscape:transform-center-y="-2.115376"
+           d="m 26.835809,30.313153 h -2.269338 l 5.674534,5.86558 h 2.269338 z" />
       </g>
       <g
          id="g3116"
