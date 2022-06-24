@@ -65,6 +65,7 @@ you may need this also  "sudo apt install gtk2-engines"
 - Non-modified PiXflat icons : http://archive.raspberrypi.org/debian/pool/main/p/pixflat-icons/
 - Piboto font : https://archive.raspberrypi.org/debian/pool/main/f/fonts-piboto/
 - Gnome icon theme (3.12.0-3): https://packages.debian.org/bullseye/all/gnome-icon-theme/download
+- gtk2-engines-pixflat : http://archive.raspberrypi.org/debian/pool/main/g/gtk2-engines-pixflat/
 
 
 #Screenshots:
