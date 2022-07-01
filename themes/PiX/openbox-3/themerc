@@ -11,7 +11,7 @@ window.active.button.toggled.unpressed.image.color: #F4F5F6
 window.active.button.toggled.pressed.image.color: #F4F5F6
 window.active.button.toggled.hover.image.color: #F4F5F6
 window.active.button.disabled.image.color: #6D6C6C
-window.active.border.color: #D0D0D0
+window.active.border.color: #4d98f5
 window.active.client.color: #EEEFEE
 
 # inactive window title bar
@@ -27,7 +27,7 @@ window.inactive.button.toggled.unpressed.image.color: #6D6C6C
 window.inactive.button.toggled.pressed.image.color: #6D6C6C
 window.inactive.button.toggled.hover.image.color: #6D6C6C
 window.inactive.button.disabled.image.color: #B0B0B0
-window.inactive.border.color: #D0D0D0
+window.inactive.border.color: #87919b
 window.inactive.client.color: #EEEFEE
 
 # maximise, minimise etc. buttons
@@ -40,7 +40,7 @@ window.inactive.client.color: #EEEFEE
 *.button.toggled.hover.bg: parentrelative
 
 # borders
-border.width: 0
+border.width: 2
 border.radius: 2
 window.handle.width: 0
 window.client.padding.width: 0
